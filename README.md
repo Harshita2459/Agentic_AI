@@ -13,17 +13,27 @@
 
 ## Available Agents
 
-- Book Recommendation Agent
-- Code Generation Agent
-- Crime Report Analysis Agent
-- Finance Agent
-- Image Agent
-- Legal Agent
-- Movie Recommendation Agent
-- Recipe Generation Agent
-- Research Paper Agent
-- Search Agent
-- YouTube Analytics Agent
+- Book Recommendation Agent: Suggests books based on user preferences.
+
+- Code Generation Agent: Generates code snippets from natural language prompts.
+
+- Crime Report Analysis Agent: Analyzes crime reports to extract meaningful insights.
+
+- Finance Agent: Provides financial data analysis and insights.
+
+- Image Agent: Processes and analyzes image data.
+
+- Legal Agent: Assists in legal document analysis and interpretation.
+
+- Movie Recommendation Agent: Recommends movies based on user input.
+
+- Recipe Generation Agent: Creates recipes from given ingredients or preferences.
+
+- Research Paper Agent: Summarizes and analyzes academic papers.
+
+- Search Agent: Performs web searches to gather information.
+
+- YouTube Analytics Agent: Analyzes YouTube data for insights.
 
 ## Getting Started
 
